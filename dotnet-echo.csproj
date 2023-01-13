@@ -8,6 +8,7 @@
     <PublishSingleFile>true</PublishSingleFile>
     <PublishTrimmed>true</PublishTrimmed>
     <PublishReadyToRun>true</PublishReadyToRun>
+    <SelfContained>true</SelfContained>
     <CrossGenDuringPublish>false</CrossGenDuringPublish>
   </PropertyGroup>
 
